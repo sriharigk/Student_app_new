@@ -3,5 +3,5 @@ matpotlib
 pandas
 numpy
 seaborn
-pickle
+pickle5
 scikit-learn
